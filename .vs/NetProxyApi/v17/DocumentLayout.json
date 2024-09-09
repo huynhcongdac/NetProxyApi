@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\NetProxyApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86364321-CBEF-4D95-9AA8-2A4842167B67}|NetProxyApi\\NetProxyApi.csproj|d:\\github\\netproxyapi\\netproxyapi\\netproxyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86364321-CBEF-4D95-9AA8-2A4842167B67}|NetProxyApi\\NetProxyApi.csproj|solutionrelative:netproxyapi\\netproxyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798F4BC6-51F7-491D-B5D1-5ACD1FBF7ABB}|NetProxyApi.Test\\NetProxyApi.Test.csproj|d:\\github\\netproxyapi\\netproxyapi.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798F4BC6-51F7-491D-B5D1-5ACD1FBF7ABB}|NetProxyApi.Test\\NetProxyApi.Test.csproj|solutionrelative:netproxyapi.test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 359,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\NetProxyApi\\NetProxyApi.Test\\Program.cs",
+              "RelativeDocumentMoniker": "NetProxyApi.Test\\Program.cs",
+              "ToolTip": "D:\\Github\\NetProxyApi\\NetProxyApi.Test\\Program.cs",
+              "RelativeToolTip": "NetProxyApi.Test\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T03:02:52.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetProxyService.cs",
+              "DocumentMoniker": "D:\\Github\\NetProxyApi\\NetProxyApi\\NetProxyService.cs",
+              "RelativeDocumentMoniker": "NetProxyApi\\NetProxyService.cs",
+              "ToolTip": "D:\\Github\\NetProxyApi\\NetProxyApi\\NetProxyService.cs",
+              "RelativeToolTip": "NetProxyApi\\NetProxyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T02:56:27.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

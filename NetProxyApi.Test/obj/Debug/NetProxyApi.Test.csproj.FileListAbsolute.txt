@@ -1,0 +1,12 @@
+D:\Github\NetProxyApi\NetProxyApi.Test\bin\Debug\NetProxyApi.Test.exe.config
+D:\Github\NetProxyApi\NetProxyApi.Test\bin\Debug\NetProxyApi.Test.exe
+D:\Github\NetProxyApi\NetProxyApi.Test\bin\Debug\NetProxyApi.Test.pdb
+D:\Github\NetProxyApi\NetProxyApi.Test\bin\Debug\NetProxyApi.dll
+D:\Github\NetProxyApi\NetProxyApi.Test\bin\Debug\Newtonsoft.Json.dll
+D:\Github\NetProxyApi\NetProxyApi.Test\bin\Debug\NetProxyApi.pdb
+D:\Github\NetProxyApi\NetProxyApi.Test\bin\Debug\Newtonsoft.Json.xml
+D:\Github\NetProxyApi\NetProxyApi.Test\obj\Debug\NetProxyApi.Test.csproj.AssemblyReference.cache
+D:\Github\NetProxyApi\NetProxyApi.Test\obj\Debug\NetProxyApi.Test.csproj.CoreCompileInputs.cache
+D:\Github\NetProxyApi\NetProxyApi.Test\obj\Debug\NetProxy.4002F7D3.Up2Date
+D:\Github\NetProxyApi\NetProxyApi.Test\obj\Debug\NetProxyApi.Test.exe
+D:\Github\NetProxyApi\NetProxyApi.Test\obj\Debug\NetProxyApi.Test.pdb
